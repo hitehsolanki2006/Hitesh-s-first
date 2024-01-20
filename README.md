@@ -1,2 +1,3 @@
 # Hitesh-s-first
-my first
+my first github file
+author-Hitesh solanki
